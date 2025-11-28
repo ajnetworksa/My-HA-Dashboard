@@ -130,4 +130,6 @@ Or support my work through buy me a coffee.
 For More Tutorial 
 https://youtu.be/W1bq6pqMCrI
 
+Community Discussion Link : https://www.reddit.com/r/homeassistant/comments/1max7zy/redid_my_ha_dashboard_for_2025_responsive_clean/
+
 ---
